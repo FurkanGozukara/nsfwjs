@@ -1,3 +1,15 @@
+install
+
+```
+git clone https://github.com/FurkanGozukara/nsfwjs
+```
+
+```
+npm install nsfwjs --force
+npm install @tensorflow/tfjs-node --force
+```
+
+
 <p align="center">
   <img src="https://github.com/infinitered/nsfwjs/raw/master/_art/nsfwjs_logo.jpg" alt="NSFWJS Logo" width="400" />
   <h2 align="center">Client-side indecent content checking</h2>
